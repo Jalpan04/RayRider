@@ -1,0 +1,20 @@
+# Compiled Binaries
+*.exe
+*.o
+*.obj
+bin/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Visual Studio / IDE Files
+.vscode/
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+
+# Raylib specific temporary files
+*.rres
