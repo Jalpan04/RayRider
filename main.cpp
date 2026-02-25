@@ -354,7 +354,7 @@ void UpdateMotorcycle(Motorcycle *bike, GameState *state, float dt) {
 }
 
 int main() {
-  InitWindow(1280, 720, "Curious - Bike Riding Demo");
+  InitWindow(1280, 720, "RayRider");
   SetTargetFPS(60);
   DisableCursor();
 

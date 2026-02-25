@@ -40,5 +40,5 @@ Ensure you have MinGW `g++` installed and added to your system PATH.
    ```
 4. Run the compiled executable:
    ```cmd
-   .\bike_demo.exe
+   .\RayRider.exe
    ```
