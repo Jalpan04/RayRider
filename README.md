@@ -1,5 +1,7 @@
 # RayRider
 
+![Game Screenshot](screenshot.png)
+
 A high-speed, daylight motorcycle riding experience built from scratch in C++ using Raylib.
 
 ## Features
