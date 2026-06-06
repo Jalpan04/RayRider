@@ -42,3 +42,7 @@ Ensure you have MinGW `g++` installed and added to your system PATH.
    ```cmd
    .\RayRider.exe
    ```
+
+## License
+
+This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
