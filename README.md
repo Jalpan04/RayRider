@@ -1,5 +1,7 @@
 # RayRider
 
+![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/RayRider) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/RayRider) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+
 ![Game Screenshot](screenshot.png)
 
 A high-speed, daylight motorcycle riding experience built from scratch in C++ using Raylib.
